@@ -3,6 +3,7 @@
   <a href="mailto:unionfind@kakao.com"><img src="https://img.shields.io/badge/email-14CC80?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:unionfind@kakao.com"/></a> 
   <a href="https://deciduous-shroud-70a.notion.site/Lee-Seong-Ju-4d47d59c3eba485fae2ee0377f0e900b"><img src="https://img.shields.io/badge/personal_statement-892CA0?style=flat-square&logo=Personio&logoColor=white&link=https://deciduous-shroud-70a.notion.site/Lee-Seong-Ju-4d47d59c3eba485fae2ee0377f0e900b"/></a>
 </div>
+
 :rabbit: **values : Be faithful to the moment, consistency rather than splendor**
 
 **skills**
