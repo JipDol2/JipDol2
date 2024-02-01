@@ -16,12 +16,11 @@
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Querydsl-DE00A5?style=flat-square&logo=FutureLearn&logoColor=white"/>
 </div>
 
 **learning**
 
 <div>
-  
-  <img src="https://img.shields.io/badge/Querydsl-DE00A5?style=flat-square&logo=FutureLearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
